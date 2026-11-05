@@ -3,6 +3,10 @@
 Founder of **SOOMi Health** — AI care operations for sleep clinics and CPAP providers (Seoul).
 Non-developer founder: I design and ship products with AI coding agents.
 
+**SOOMi Health in 60 seconds** (English · all data synthetic)
+
+[![SOOMi Health 60-second intro](media/soomi-health-60s-intro-en.jpg)](https://youtu.be/bxKa4xb-ArA)
+
 **What I've shipped**
 - **CareLoop** — AI operations console for sleep clinics and CPAP providers. Built solo since Feb 2026, 4,300+ commits, deployed to production → [overview](https://github.com/sylvie-kim/careloop)
 - **SOOMi Sleep Check** — free 5-minute sleep health self-check on your phone, in Korean. No sign-up, nothing saved. Not a diagnosis → [live](https://sleep-check.soomihealth.care) · [overview](https://github.com/sylvie-kim/soomi-sleep-check)
