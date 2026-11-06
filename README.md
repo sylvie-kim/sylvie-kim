@@ -1,4 +1,4 @@
-### Hi, I'm Sylvie 👋
+### Hi, I'm Sylvie 
 
 Founder of **SOOMi Health** — AI care operations for sleep clinics and CPAP providers (Seoul).
 Non-developer founder: I design and ship products with AI coding agents.
