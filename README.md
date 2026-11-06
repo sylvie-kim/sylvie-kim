@@ -13,4 +13,3 @@ Non-developer founder: I design and ship products with AI coding agents.
 - **Cognitive Condition Check** — seven short brain games (memory, numbers, colors, patterns, reaction), rookie to master, in Korean. No login. Not a medical test → [live](https://ksleep-care-cognitive-check.vercel.app)
 - **OraeOrae** — daily care app for my two Pomeranians, with AI next-step insights. React, Express, PostgreSQL, Gemini, Cloud Run → [overview](https://github.com/sylvie-kim/oraeorae) · [live demo](https://oraeorae-4mnbzwnkgq-uc.a.run.app)
 - **IT Quiz** — vocabulary quiz for people starting vibe coding → [try it](https://sylvie-kim.github.io/it-quiz-app/)
-- **Apple Game** — mobile number puzzle → [play](https://sylvie-kim.github.io/apple-game/)
